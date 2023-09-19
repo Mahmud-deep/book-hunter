@@ -46,6 +46,12 @@ WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
 ```
 
+## Screenshots
+
+![SEARCH BOOK](<Assets/search book.png>)
+
+![SEARCHED STAR WARS ON SEARCHED BOOKS](<Assets/search books star wars.png>)
+
 ## Links
 
 https://github.com/Mahmud-deep/book-hunter
