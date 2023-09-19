@@ -48,6 +48,13 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## Links
 
+https://github.com/Mahmud-deep/book-hunter
+
+ https://mahmud-deep.github.io/book-hunter/
+
+ https://enigmatic-wildwood-12450-d6aad5adacf6.herokuapp.com/
+
+
 
 ## Review
 
