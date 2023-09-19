@@ -1,24 +1,21 @@
 {
   "name": "book-hunter",
   "version": "1.0.0",
-  "main": "server/server.js",
-  "scripts": {
-    "start": "node server/server.js",
-    "develop": "concurrently \"cd server && npm run watch\" \"cd client && npm start\"",
-    "install": "cd server && npm i && cd ../client && npm i",
-    "build": "cd client && npm run build"
+  "description": "A fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. The app was built using the MERN stack, with a React front end, MongoDB database, and Node.js/Express.js server and API. It's already set up to allow users to save book searches to the back end.",
+  "engines": {
+    "node": "18.x"
   },
-  "keywords": [],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahmud-deep/book-hunter.git"
+  },
   "author": "",
   "license": "ISC",
-  "devDependencies": {
-    "@babel/plugin-transform-private-property-in-object": "^7.22.11",
-    "concurrently": "^5.1.0"
+  "bugs": {
+    "url": "https://github.com/Mahmud-deep/book-hunter/issues"
   },
-  "dependencies": {
-    "@apollo/client": "^3.8.3",
-    "apollo-server-express": "^3.12.1",
-    "uninstall": "^0.0.0"
-  },
-  "description": ""
+  "homepage": "https://github.com/Mahmud-deep/book-hunter#readme"
 }
